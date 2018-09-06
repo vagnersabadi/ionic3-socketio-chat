@@ -9,7 +9,6 @@
 - git clone ttps://github.com/vagnersabadi/ionic3-socketio-chat.git
 - cd ionic3-chat-socketio
 - npm i
+- npm install ng-socket-io
 - ionic serve
-
-> npm install ng-socket-io
 
