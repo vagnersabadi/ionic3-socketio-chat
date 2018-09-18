@@ -6,7 +6,7 @@
 - node index.js
 
 ### APP-CHAT
-- git clone ttps://github.com/vagnersabadi/ionic3-socketio-chat.git
+- git clone https://github.com/vagnersabadi/ionic3-socketio-chat.git
 - cd ionic3-chat-socketio
 - npm i
 - npm install ng-socket-io
